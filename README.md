@@ -35,11 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Declaration
-of Chriſte and of his
-offyce compylyd / by Iohan
-Hoper / Anno
-1547.Matth. 7.Hic eſt fi
+
 1. To the mooſt noble an
 uictorious Prince Edwarde Duke
 of Somerſet: Erle of Hertforthe: uiſcount
